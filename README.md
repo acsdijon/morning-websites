@@ -8,3 +8,4 @@
 - [x] Mathieu, 28/07/2020 : [In caso di Mag](http://incasodi.colmar.it/fr/tignes.html)
 - [Annimate.css](https://animate.style/)
 - [Full screen Overlay Navigation](https://www.w3schools.com/howto/howto_js_fullscreen_overlay.asp)
+- [x] Tsiry, 29/07/2020 : [Assassination Globalinitiative](https://assassination.globalinitiative.net//)
