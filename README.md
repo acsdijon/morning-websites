@@ -11,4 +11,5 @@
 - [x] Tsiry, 29/07/2020 : [Assassination Globalinitiative](https://assassination.globalinitiative.net//)
 - [x] Laurine, 30/07/2020 : https://arjay.studio/
 - [x] Célia, 31/07/2020 : https://www.thomasbosc.com/en
+- [x] Lisa, 31/08/2020 : https://roxane.digital/
 
